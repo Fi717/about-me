@@ -1,0 +1,28 @@
+h1 {
+  font-family: "Poppins", sans-serif;
+  background-color: #d68c45;
+  color: #7f5539;
+  text-align: center;
+}
+body {
+  background-color: #ddb892;
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  color: #7f5539;
+  list-style: none;
+}
+
+h2 {
+  color: #01497c;
+  font-size: x-large;
+}
+
+h3 {
+  color: #01497c;
+  font-size: x-large;
+}
+
+h4 {
+  color: #01497c;
+  font-size: x-large;
+}
