@@ -1,28 +1,76 @@
-h1 {
-  font-family: "Poppins", sans-serif;
-  background-color: #d68c45;
-  color: #7f5539;
-  text-align: center;
+* {
+  box-sizing: border-box;
+}
+
+header {
+  margin-bottom: 4rem;
 }
 body {
-  background-color: #ddb892;
+  width: 90%;
+  margin: 0;
+  background-color: whitesmoke;
   font-family: "Poppins", sans-serif;
-  text-align: left;
-  color: #7f5539;
-  list-style: none;
+  text-align: center;
+  color: #652c06;
+  padding: 2%;
+}
+
+h1 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial,
+    sans-serif;
+  font-style: bold;
+  font-size: 3rem;
+  font-weight: 500;
+  background-color: #7f5539;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  padding: 3%;
 }
 
 h2 {
-  color: #01497c;
-  font-size: x-large;
+  color: whitesmoke;
+  font-size: 23px;
+  font-weight: 700;
+  padding: 1%;
+  background-color: #9c4a32;
+  margin-top: 2%;
 }
 
 h3 {
-  color: #01497c;
-  font-size: x-large;
+  color: whitesmoke;
+  font-size: 23px;
+  font-weight: 700;
+  padding: 1%;
+  background-color: #9c4a32;
+  margin-top: 2%;
 }
 
 h4 {
-  color: #01497c;
-  font-size: x-large;
+  color: whitesmoke;
+  font-size: 23px;
+  font-weight: 700;
+  padding: 1%;
+  background-color: #9c4a32;
+  margin-top: 2%;
+}
+
+p {
+  margin: 10px;
+}
+
+img {
+  width: 900px;
+}
+
+section section {
+  border: 2px solid purple;
+  background-color: lavender;
+}
+
+section section div {
+  border: 2px solid blue;
+  background-color: aqua;
+  padding: 1rem;
+  margin: 1 rem;
 }
